@@ -1,2 +1,2 @@
 # gruntwork-uninstaller
-Shell Script to uninstall gruntwork
+A quick shell Script to uninstall Gruntwork/Munki by Mac-MSP.
